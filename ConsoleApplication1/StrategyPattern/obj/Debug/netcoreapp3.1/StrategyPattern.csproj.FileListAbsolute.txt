@@ -1,0 +1,11 @@
+C:\Work\Prep\C#\ConsoleApplication1\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.exe
+C:\Work\Prep\C#\ConsoleApplication1\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.deps.json
+C:\Work\Prep\C#\ConsoleApplication1\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.runtimeconfig.json
+C:\Work\Prep\C#\ConsoleApplication1\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.runtimeconfig.dev.json
+C:\Work\Prep\C#\ConsoleApplication1\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.dll
+C:\Work\Prep\C#\ConsoleApplication1\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.pdb
+C:\Work\Prep\C#\ConsoleApplication1\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.csprojAssemblyReference.cache
+C:\Work\Prep\C#\ConsoleApplication1\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.AssemblyInfoInputs.cache
+C:\Work\Prep\C#\ConsoleApplication1\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.AssemblyInfo.cs
+C:\Work\Prep\C#\ConsoleApplication1\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.dll
+C:\Work\Prep\C#\ConsoleApplication1\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.pdb

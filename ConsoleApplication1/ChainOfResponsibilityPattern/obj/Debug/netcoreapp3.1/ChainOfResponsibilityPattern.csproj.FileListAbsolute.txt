@@ -1,0 +1,11 @@
+C:\Work\Prep\C#\ConsoleApplication1\ChainOfResponsibilityPattern\bin\Debug\netcoreapp3.1\ChainOfResponsibilityPattern.exe
+C:\Work\Prep\C#\ConsoleApplication1\ChainOfResponsibilityPattern\bin\Debug\netcoreapp3.1\ChainOfResponsibilityPattern.deps.json
+C:\Work\Prep\C#\ConsoleApplication1\ChainOfResponsibilityPattern\bin\Debug\netcoreapp3.1\ChainOfResponsibilityPattern.runtimeconfig.json
+C:\Work\Prep\C#\ConsoleApplication1\ChainOfResponsibilityPattern\bin\Debug\netcoreapp3.1\ChainOfResponsibilityPattern.runtimeconfig.dev.json
+C:\Work\Prep\C#\ConsoleApplication1\ChainOfResponsibilityPattern\bin\Debug\netcoreapp3.1\ChainOfResponsibilityPattern.dll
+C:\Work\Prep\C#\ConsoleApplication1\ChainOfResponsibilityPattern\bin\Debug\netcoreapp3.1\ChainOfResponsibilityPattern.pdb
+C:\Work\Prep\C#\ConsoleApplication1\ChainOfResponsibilityPattern\obj\Debug\netcoreapp3.1\ChainOfResponsibilityPattern.csprojAssemblyReference.cache
+C:\Work\Prep\C#\ConsoleApplication1\ChainOfResponsibilityPattern\obj\Debug\netcoreapp3.1\ChainOfResponsibilityPattern.AssemblyInfoInputs.cache
+C:\Work\Prep\C#\ConsoleApplication1\ChainOfResponsibilityPattern\obj\Debug\netcoreapp3.1\ChainOfResponsibilityPattern.AssemblyInfo.cs
+C:\Work\Prep\C#\ConsoleApplication1\ChainOfResponsibilityPattern\obj\Debug\netcoreapp3.1\ChainOfResponsibilityPattern.dll
+C:\Work\Prep\C#\ConsoleApplication1\ChainOfResponsibilityPattern\obj\Debug\netcoreapp3.1\ChainOfResponsibilityPattern.pdb
